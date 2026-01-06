@@ -13,9 +13,6 @@
   >
 </a>
 
-<p align="center"><b>We received a proper request from your browser.</b></p>
-<p align="center">Not sorry about that. Do not try refreshing and don't contact us if the problem persists.</p>
-
 <p align="center">
   <a href="https://web.poplistic.dev">Contact Support</a> —
   <a href="https://www.githubstatus.com/">GitHub Status</a> —
