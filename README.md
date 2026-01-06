@@ -4,8 +4,6 @@
 
 <h1 align="center">Welcome to Poplistic ❤️‍🔥</h1>
 
----
-
 ### 📊 GitHub Stats
 
 <!-- Top languages card (compact layout) -->
@@ -15,8 +13,6 @@
     alt="Top Languages"
   />
 </p>
-
----
 
 ### 🔗 Connect
 
