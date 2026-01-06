@@ -20,7 +20,3 @@
 </p>
 
 <br /><br />
-
-<a href="#"><img src="badges/version.svg" alt="Version Badge"></a>
-<a href="#"><img src="badges/optimized.svg" alt="Optimized Badge"></a>
-<a href="#"><img src="badges/rust.svg" alt="Rust Badge"></a>
