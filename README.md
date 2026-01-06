@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <a href="#">
+    <img width="50" src="me.png">
+  </a>
+</p>
 
-<!--
-**Poplistic/poplistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#">
+  <img
+    align="right"
+    height="220px"
+    alt="Most used languages"
+    src="https://poplistic-readme.vercel.app/api/top-langs/?username=Poplistic&langs_count=10&theme=dark&layout=compact&hide_border=true&bg_color=0D1117"
+  >
+</a>
 
-Here are some ideas to get you started:
+<p align="center"><b>We received a proper request from your browser.</b></p>
+<p align="center">Not sorry about that. Do not try refreshing and don't contact us if the problem persists.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://web.poplistic.dev">Contact Support</a> —
+  <a href="https://www.githubstatus.com/">GitHub Status</a> —
+  <a href="https://twitter.com/githubstatus">@githubstatus</a>
+</p>
+
+<br /><br />
+
+<a href="#"><img src="badges/version.svg" alt="Version Badge"></a>
+<a href="#"><img src="badges/optimized.svg" alt="Optimized Badge"></a>
+<a href="#"><img src="badges/rust.svg" alt="Rust Badge"></a>
