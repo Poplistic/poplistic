@@ -1,22 +1,25 @@
 <p align="center">
-  <a href="#">
-    <img width="50" src="me.png">
-  </a>
+  <img src="me.png" alt="Profile Image" width="120" />
 </p>
 
-<a href="#">
-  <img
-    align="right"
-    height="220px"
-    alt="Most used languages"
-    src="https://poplistic-readme.vercel.app/api/top-langs/?username=Poplistic&langs_count=10&theme=dark&layout=compact&hide_border=true&bg_color=0D1117"
-  >
-</a>
+<h1 align="center">Welcome to Poplistic ❤️‍🔥</h1>
 
+---
+
+### 📊 GitHub Stats
+
+<!-- Top languages card (compact layout) -->
 <p align="center">
-  <a href="https://web.poplistic.dev">Contact Support</a> —
-  <a href="https://www.githubstatus.com/">GitHub Status</a> —
-  <a href="https://twitter.com/githubstatus">@githubstatus</a>
+  <img 
+    src="https://poplistic-readme.vercel.app/api/top-langs/?username=Poplistic&langs_count=10&theme=dark&layout=compact&hide_border=true&bg_color=0D1117"
+    alt="Top Languages"
+  />
 </p>
 
-<br /><br />
+---
+
+### 🔗 Connect
+
+| Support | Status | Twitter |
+|---------|--------|---------|
+| [Contact Support](https://web.poplistic.dev) | [GitHub Status](https://www.githubstatus.com/) | [@githubstatus](https://twitter.com/githubstatus) |
