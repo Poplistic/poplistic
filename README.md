@@ -1,13 +1,5 @@
 <div align="center" style="margin-top: 20px;">
 
-  <h2 style="
-    margin-bottom: 20px;
-    font-weight: 600;
-    letter-spacing: 1px;
-  ">
-    📊 GitHub Stats
-  </h2>
-
   <div style="
     display: flex;
     justify-content: center;
