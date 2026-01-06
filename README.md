@@ -2,7 +2,7 @@
   <img src="me.png" alt="Profile Image" width="120" />
 </p>
 
-<h1 align="center">Welcome to Poplistic ❤️‍🔥</h1>
+<h1 align="center">Welcome to Poplistic ❤️‍🔥
 
 ### 📊 GitHub Stats
 
